@@ -102,4 +102,4 @@ This project was created as part of my Physics degree to:
 - Explore the convergence properties of Mandelbrot and Julia sets.
 - Visualize how fractal structures emerge as the number of iterations increases.
 
-::contentReference[oaicite:0]{index=0}
+
