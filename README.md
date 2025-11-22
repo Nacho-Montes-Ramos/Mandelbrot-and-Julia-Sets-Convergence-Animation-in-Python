@@ -29,7 +29,7 @@ At each iteration:
 - A matrix `VM` stores, for each point, the iteration number at which it last satisfied the convergence condition.
 - For every iteration, an image is saved in the directory:
 
-```text
+
 framesMandelbrot/frame_{n:03d}.png
 
 These frames show how the convergence pattern of the Mandelbrot set evolves with the number of iterations.
